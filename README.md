@@ -25,9 +25,16 @@ Technologies Used
 - Presentation slides
 
 👥 Contributors
-- Your Name
-- Team Member 1
-- Team Member 2
+- Mohammad Arifa Yasmeen 
+- karri Sai Pavani
+- Kunapareddi Harshini Nagasri
+- Chinthapalli Lakshmi Vaishnavi 
+- Chokka Uma Kowsalya
+- Amara Rashmitha 
+- Turangi Harini
+- Kona Sri Gowthami
+- Kanneedi Sri Samyuktha 
+- Janagam Pallavi 
 
 🔮Future Improvements
 - Web interface for password generation
