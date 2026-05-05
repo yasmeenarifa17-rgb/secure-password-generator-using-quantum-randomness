@@ -40,3 +40,6 @@ Technologies Used
 - Web interface for password generation
 - Integration with password managers
 - Quantum API integration
+
+-Impact :
+  A secure password manager powered by quantum randomness can significantly enhance digital security by generating truly unpredictable cryptographic keys and passwords. Unlike classical random number generators, which rely on algorithms and can be vulnerable to prediction, quantum randomness taps into the inherent uncertainty of quantum mechanics, making the output fundamentally unpredictable. This ensures that stored credentials are resistant to brute-force attacks and future quantum computing threats, thereby strengthening user trust and safeguarding sensitive information in an increasingly complex cybersecurity landscape.
